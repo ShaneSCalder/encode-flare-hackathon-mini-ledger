@@ -1,0 +1,55 @@
+{
+  "ledger_id": "cross_chain_message_ledger",
+  "block_size": 2,
+  "block_timeout": 0,
+  "created_at": "",
+  "fields": {
+    "transaction_id": "",
+    "timestamp": "",
+    "network": "",
+    "transaction_type": ""
+  },
+  "sections": {
+    "part_a": {
+      "transaction_id": "",
+      "timestamp": "",
+      "origin_chain": "",
+      "destination_chain": "",
+      "cross_chain_action": "",
+      "bridge_protocol": "",
+      "message_payload": "",
+      "model_used": "",
+      "confidence_score": "",
+      "agent_id": "",
+      "reasoning_chain": [],
+      "action": "",
+      "transaction_status": "",
+      "validated": false
+    },
+    "part_b": {
+      "transaction_id": "",
+      "timestamp": "",
+      "network": "",
+      "sender_wallet": "",
+      "recipient_wallet": "",
+      "amount_sent": "",
+      "amount_received": "",
+      "fee": "",
+      "transaction_status": "",
+      "validated": false
+    },
+    "part_c": {
+      "transaction_id": "",
+      "timestamp": "",
+      "network": "",
+      "audit_logged_by": "",
+      "audit_type": "",
+      "audit_summary": "",
+      "audit_verdict": "",
+      "audit_notes": "",
+      "transaction_status": "",
+      "validated": false
+    }
+  },
+  "blocks": []
+}

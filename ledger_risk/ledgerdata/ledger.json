@@ -1,0 +1,92 @@
+{
+  "ledger_id": "risk_proof_ledger",
+  "block_size": 2,
+  "block_timeout": 0,
+  "created_at": "2025-04-26T22:02:50.793Z",
+  "fields": {
+    "transaction_id": "",
+    "timestamp": "",
+    "network": "",
+    "transaction_type": "",
+    "risk_score": "",
+    "exposure_type": ""
+  },
+  "sections": {
+    "part_a": {
+      "transaction_id": "",
+      "timestamp": "",
+      "risk_score": "",
+      "exposure_type": "",
+      "identified_risks": [],
+      "risk_mitigation_plan": "",
+      "confidence_score": "",
+      "agent_id": "",
+      "model_used": "",
+      "validated": false
+    },
+    "part_b": {
+      "transaction_hash": "",
+      "ledger_index": "",
+      "timestamp": "",
+      "network": "",
+      "sender": {
+        "wallet_address": "",
+        "asset": "",
+        "balance_before": "",
+        "balance_after": ""
+      },
+      "recipient": {
+        "wallet_address": "",
+        "asset": "",
+        "balance_before": "",
+        "balance_after": ""
+      },
+      "fee": {
+        "value": "",
+        "currency": ""
+      },
+      "transaction_status": "",
+      "validated": false
+    },
+    "part_c": {
+      "timestamp": "",
+      "network": "",
+      "audit_log": {
+        "hash": "",
+        "previous_hash": "",
+        "logged_by": "",
+        "audit_type": "",
+        "summary": "",
+        "verdict": "",
+        "notes": ""
+      },
+      "validated": false
+    }
+  },
+  "blocks": [
+    {
+      "block_id": "block_1",
+      "timestamp": "2025-04-26T22:03:04.054Z",
+      "proof": {
+        "leaves": {
+          "block_id": "f7cf0423f116a29c18407b0bf13bc61f85f45076e65ceb7577dfd444826c3db0",
+          "memo_1_id": "8ad4b236eef90697c2e2440737089f4337861d157b37eb0f6016c578a4bf92c5",
+          "memo_1_merkleRoot": "3e2dbaff3be78ca1d297430fcedad135d890e826c0680167072aeb913bacf7e5",
+          "memo_1_nft_id": "3ab99b0ba40994f51e78c024b211813e1fd4279a9e28f1749c97bbb188680fe8",
+          "memo_1_owner_wallet": "70b3693a21f7cdcb5ffff413263f44ab9df6847a15124afdf34ef1da03efb5d6",
+          "memo_1_proofHash": "b65607afaf8b1ab0c6803a60d367d47ccaca16889d7a4740eac540f0ba8b8395",
+          "memo_2_id": "f3fa23aa16b9e039fb5db7c29060bc8e6503502655d45ef843f72f6d87523f48",
+          "memo_2_merkleRoot": "e2b07a1327551857df397f84a67924a9f096bbbc0a4325f41cc208ff33263f8f",
+          "memo_2_nft_id": "0b7fdfdccf45e0a38652a00d92f985635c28ff10b4935e6b260993a1177be6e2",
+          "memo_2_owner_wallet": "9073e2d15a3945e9103fde59d729421875d1743c97de60be4d1396753ffac08c",
+          "memo_2_proofHash": "98d7147d9af284608ac85ce23ce1978fae46d05f0299710ccf754bf42b2a19c3",
+          "timestamp": "77db32ded0e4ebff319c9fcbc17acf316afd1a969c5fba55cf5d40a323bfee19"
+        },
+        "merkleRoot": "65ffd72dbc13838703116387b904cf423939f1829b76b84ed1b80a091f44c320",
+        "nonce": "d59b8b3507e128cce0d65c25",
+        "proofHash": "091bdee9f05285b81e5c4098c0d45924571847e9d7d0f5d94709079a8eab4465",
+        "proofID": "Proof_GENESIS_24e5c7"
+      }
+    }
+  ]
+}

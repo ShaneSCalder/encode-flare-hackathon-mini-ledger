@@ -1,0 +1,12 @@
+{
+    "proofID": "Proof_GENESIS_72baaa",
+    "ledger_id": "1f66baf638bb2e56a0a55d56eaf95fddd483531f5af519449f214ad95a3f7206",
+    "ledger_transaction_id": "52fdf95db39496d1f7e7f2ae09225bd31398efb6a8c61283c8b64ab1912f5db1",
+    "memo_id": "77b297a6a7509b5b3a3723ee4695fb99734128331b13519e58169e9ab44ca3d4",
+    "meta_data": "def4c77d0b000c5c24e8786988decf1bb7f118f0d67a523cecab9f8de1a7d77a",
+    "network": "2a247649f4f5edd46006780d0ef679bd10653778acff941f5f2381a22a505ee0",
+    "merkleRoot": "a636a73d4dd291c8562a20063717aea8ff11902e65b51d22c5f2d2b09427e0dd",
+    "nonce": "94a57375446c6c934da25187",
+    "proofHash": "5e11b7762d25572521288d6d60878339d71f5cb987beb01ad0c19525b329a456"
+  }
+  

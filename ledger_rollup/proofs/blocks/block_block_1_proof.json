@@ -1,0 +1,20 @@
+{
+  "leaves": {
+    "block_id": "f7cf0423f116a29c18407b0bf13bc61f85f45076e65ceb7577dfd444826c3db0",
+    "memo_1_id": "1d8571df4b121267fc548b148bf3e4a4e86a06d09d4cbe72bc4bd7c3ef08c8cf",
+    "memo_1_merkleRoot": "724d6aa914b0a698359d88fd7d4fd026e3e4f509d7fe3211dc0b7532734b73a2",
+    "memo_1_nft_id": "defe59d452e2e2bbe15375e7189012768990f3bcb84fb699726eea49beb26d4e",
+    "memo_1_owner_wallet": "70b3693a21f7cdcb5ffff413263f44ab9df6847a15124afdf34ef1da03efb5d6",
+    "memo_1_proofHash": "a19267395ed5c08ba829f70d685bf08b54d2160e676d2431dfdb1e5021ccaa1a",
+    "memo_2_id": "8b6f30f7da3d59e2032a5788d0e9e17dc7b5cdc32987b3cb45b70d36d96090bf",
+    "memo_2_merkleRoot": "cc277b4c838a5efcdadfc3f643e63a708aafaab566b4c4000ff335ce871d24c3",
+    "memo_2_nft_id": "3f18a3c2a719e5722e331190a1170ffd2340b08856e52e4fd99021f507ee4fb4",
+    "memo_2_owner_wallet": "9073e2d15a3945e9103fde59d729421875d1743c97de60be4d1396753ffac08c",
+    "memo_2_proofHash": "509dee48a5d43e1ab4e00393f573295873cdae8edc0972edec9cb32c5d6dc8a6",
+    "timestamp": "7b15a2abd28a1b0d8d15b3c8e73b27e74d435296e5973fd966c3dd296670900e"
+  },
+  "merkleRoot": "14f9b76e22ba7a21b4dabc50d4c5c15edcdcd04f32da9b445a08ff705b8abd66",
+  "nonce": "eec1b7b8d00664169cae14f8",
+  "proofHash": "a90379e89d86401069f817e3df7033c141e10711ef6c4fa5c0740ca9b4636970",
+  "proofID": "Proof_GENESIS_d4e7ac"
+}

@@ -1,0 +1,31 @@
+{
+  "ledger_id": "rollup_ledger",
+  "block_size": 2,
+  "block_timeout": 0,
+  "created_at": "",
+  "fields": {
+    "block_id": "",
+    "memo_1_id": "",
+    "memo_1_merkleRoot": "",
+    "memo_1_nft_id": "",
+    "memo_1_owner_wallet": "",
+    "memo_1_proofHash": "",
+    "memo_2_id": "",
+    "memo_2_merkleRoot": "",
+    "memo_2_nft_id": "",
+    "memo_2_owner_wallet": "",
+    "memo_2_proofHash": "",
+    "timestamp": ""
+  },
+  "genesis_block":{
+  "merkleRoot": "",
+  "nonce": "",
+  "proofHash": "",
+  "proofID": ""
+},
+"blocks": []
+}
+
+
+  
+  

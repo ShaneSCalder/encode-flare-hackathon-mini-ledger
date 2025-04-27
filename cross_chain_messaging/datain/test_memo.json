@@ -1,0 +1,56 @@
+{
+  "data": {
+    "ledger_transaction_id": "ledger_txn_2001",
+    "memo_id": "memo_crosschain_transfer_0001",
+    "ledger_id": "cross_chain_message_ledger",
+    "timestamp": "1732423000",
+    "network": "Simulated (Solana ➔ Ethereum)",
+    "transaction_type": "Cross-Chain Asset Bridge",
+
+    "part_a_transaction_id": "AI_DECISION_CROSSCHAIN_0001",
+    "part_a_section": "Cross-Chain Reasoning",
+    "part_a_network": "Bridge AI Stack",
+    "part_a_timestamp": "1732423001",
+    "part_a_origin_chain": "Solana",
+    "part_a_destination_chain": "Ethereum",
+    "part_a_cross_chain_action": "Bridge USDC",
+    "part_a_bridge_protocol": "Wormhole v2",
+    "part_a_message_payload": "USDC: 1000 units",
+    "part_a_model_used": "BridgeBot_XGBoost_v0.9",
+    "part_a_confidence_score": "0.88",
+    "part_a_agent_id": "bridge-agent-v1",
+    "part_a_reasoning_1": "Solana gas fees < threshold",
+    "part_a_reasoning_2": "Ethereum liquidity sufficient",
+    "part_a_reasoning_3": "Bridge risk score acceptable (under 5%)",
+    "part_a_action": "Initiate transfer",
+    "part_a_transaction_status": "Submitted",
+    "part_a_validated": "false",
+
+    "part_b_transaction_id": "SIM_CROSSCHAIN_EXEC_6001",
+    "part_b_section": "Execution Details",
+    "part_b_network": "Simulated Bridge",
+    "part_b_timestamp": "1732423002",
+    "part_b_sender_wallet": "SolanaWallet123...",
+    "part_b_recipient_wallet": "EthereumWallet456...",
+    "part_b_amount_sent": "1000 USDC",
+    "part_b_amount_received": "998 USDC (after fees)",
+    "part_b_fee": "2 USDC",
+    "part_b_transaction_status": "Executed",
+    "part_b_validated": "true",
+
+    "part_c_transaction_id": "AUDIT_LOG_CROSSCHAIN_9001",
+    "part_c_section": "CoT Audit",
+    "part_c_network": "AI Bridge Auditor",
+    "part_c_timestamp": "1732423003",
+    "part_c_logged_by": "audit-bridge-agent-v1",
+    "part_c_audit_type": "cross_chain_validation",
+    "part_c_summary": "Cross-chain transfer aligned with best practices. Bridge risk acceptable. Fees within threshold.",
+    "part_c_verdict": "valid",
+    "part_c_notes": "Simulated transfer passed audit checks successfully.",
+    "part_c_transaction_status": "Completed",
+    "part_c_validated": "true",
+
+    "meta_data": "{\"strategy_id\": \"BridgeBot_SafePassage\", \"audit_hash\": \"SHA256(crosschain_audit_log)\", \"documentation_url\": \"https://example.com/audit_logs/crosschain_txn_2001.pdf\", \"custom_notes\": \"Test of cross-chain bridging logic using simulated wallets.\"}"
+  }
+}
+

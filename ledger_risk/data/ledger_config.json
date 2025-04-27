@@ -1,0 +1,71 @@
+{
+  "ledger_id": "risk_proof_ledger",
+  "block_size": 2,
+  "block_timeout": 0,
+  "created_at": "",
+  "fields": {
+    "transaction_id": "",
+    "timestamp": "",
+    "network": "",
+    "transaction_type": "",
+    "risk_score": "",
+    "exposure_type": ""
+  },
+  "sections": {
+    "part_a": {
+      "transaction_id": "",
+      "timestamp": "",
+      "risk_score": "",
+      "exposure_type": "",
+      "identified_risks": [],
+      "risk_mitigation_plan": "",
+      "confidence_score": "",
+      "agent_id": "",
+      "model_used": "",
+      "validated": false
+    },
+    "part_b": {
+      "transaction_hash": "",
+      "ledger_index": "",
+      "timestamp": "",
+      "network": "",
+      "sender": {
+        "wallet_address": "",
+        "asset": "",
+        "balance_before": "",
+        "balance_after": ""
+      },
+      "recipient": {
+        "wallet_address": "",
+        "asset": "",
+        "balance_before": "",
+        "balance_after": ""
+      },
+      "fee": {
+        "value": "",
+        "currency": ""
+      },
+      "transaction_status": "",
+      "validated": false
+    },
+    "part_c": {
+      "timestamp": "",
+      "network": "",
+      "audit_log": {
+        "hash": "",
+        "previous_hash": "",
+        "logged_by": "",
+        "audit_type": "",
+        "summary": "",
+        "verdict": "",
+        "notes": ""
+      },
+      "validated": false
+    }
+  },
+  "blocks": []
+}
+
+
+  
+  
