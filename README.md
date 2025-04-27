@@ -1,4 +1,3 @@
----
 
 # 📚 encode-flare-hackathon-mini-ledger
 
