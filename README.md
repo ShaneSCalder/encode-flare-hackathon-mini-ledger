@@ -119,8 +119,17 @@ flare_integration_scripts/
 
 ---
 
+## 📣 Coming Soon
 
+🧪 Beta Test Program – Be the first to explore the CoT Audit Ledger in action
 
+📦 NPM & Binary Access – Lightweight CLI tools and modules for builders
+
+🧭 Block Explorer UI – Visualize your memo blocks and Merkle proofs
+
+👉 Sign up for early access:
+
+[![Join the Beta](https://img.shields.io/badge/Beta%20Signup-Available-blue?style=for-the-badge)](https://www.cotledger.com)
 
 
 
